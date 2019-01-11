@@ -1,6 +1,7 @@
 # Distributed-Hash-Table
 ## An Amazon's Dynamo inspired DHT written in C
 This program has been developed during the "Projet de programation système" 2018 at EPFL.
+This is a simple distributed hashtable that uses UDP protocol
 
 How to run it :
 
